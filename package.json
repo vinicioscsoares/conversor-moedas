@@ -10,8 +10,11 @@
     "test": "jest"
   },
   "dependencies": {
+    "@react-native-picker/picker": "github:react-native-picker/picker",
+    "axios": "^1.7.4",
     "react": "18.2.0",
-    "react-native": "0.74.5"
+    "react-native": "0.74.5",
+    "react-native-picker-select": "^9.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
